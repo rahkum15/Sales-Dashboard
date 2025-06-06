@@ -56,8 +56,7 @@ To create a dynamic and interactive dashboard that summarizes the Superstore’s
 
 ### 📷 Sample Screenshot
 
->link:- Sales Dashboard.png
----
+>Example:- Dashboard Preview(https://github.com/rahkum15/Sales-Dashboard/blob/main/Sales%20Dashboard.png)
 
 ### 📚 Learning Outcomes
 
